@@ -20,7 +20,7 @@ public class Main {
 
             //Lielāks>mazāks=vienāds.
             if (randName > randName1) {
-                System.out.println();}
+                System.out.println("Lielāks");}
             else if (randName == randName1) {
                     System.out.println("Vienāds");}
                 else
